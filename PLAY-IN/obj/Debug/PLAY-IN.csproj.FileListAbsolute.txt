@@ -1,0 +1,13 @@
+D:\Diploma\PLAY-IN\bin\Debug\PLAY-IN.exe.config
+D:\Diploma\PLAY-IN\bin\Debug\PLAY-IN.exe
+D:\Diploma\PLAY-IN\bin\Debug\PLAY-IN.pdb
+D:\Diploma\PLAY-IN\bin\Debug\FontAwesome.Sharp.dll
+D:\Diploma\PLAY-IN\bin\Debug\Guna.UI2.dll
+D:\Diploma\PLAY-IN\obj\Debug\PLAY-IN.csproj.AssemblyReference.cache
+D:\Diploma\PLAY-IN\obj\Debug\PLAY_IN.Form1.resources
+D:\Diploma\PLAY-IN\obj\Debug\PLAY_IN.Properties.Resources.resources
+D:\Diploma\PLAY-IN\obj\Debug\PLAY-IN.csproj.GenerateResource.cache
+D:\Diploma\PLAY-IN\obj\Debug\PLAY-IN.csproj.CoreCompileInputs.cache
+D:\Diploma\PLAY-IN\obj\Debug\PLAY-IN.csproj.CopyComplete
+D:\Diploma\PLAY-IN\obj\Debug\PLAY-IN.exe
+D:\Diploma\PLAY-IN\obj\Debug\PLAY-IN.pdb
